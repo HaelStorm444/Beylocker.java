@@ -1,0 +1,57 @@
+1,Victory Valtryek,Dual,23,12,7,Attack,Rush Launch,Ultra Flash Rush Launch,Winged Launch,1,2,3,no
+2,Storm Spryzen,Dual,22,22,22,Balance,Counter Break,Ultra Counter Break,Crux Boost,1,2,3,no
+3,Raging Roktavor,Dual,10,13,19,Stamina,Roktavor Zone,,,1,0,0,no
+4,King Kerbeus,Dual,13,20,15,Defense,Chain Launch,,,1,0,0,no
+5,Dark Doomscizor,Dual,19,5,4,Attack,Quake Launch,,,1,0,0,no
+6,Xeno Xcalius,Dual,22,17,15,Attack,Saber Strike,Dual Sabers,,1,2,0,no
+7,Wild Wyvron,Dual,11,19,16,Defense,Shield Launch,Shield Crash,Hyper Shield Crash,1,2,3,no
+8,Hyper Horusood,Dual,9,12,15,Stamina,Horusood Field,,,1,0,0,no
+9,Omni Odax,Dual,17,10,7,Attack,Blast Beat,,,1,0,0,no
+10,Yugen Yegrion,Dual,10,11,18,Stamina,,,,0,0,0,no
+11,Uber Unicrest,Dual,17,19,15,Defense,Alicorn Launch,,,1,0,0,no
+12,Quill Quetziko,Dual,8,18,14,Defense,,,,0,0,0,no
+13,Beast Betromoth,Dual,16,8,3,Attack,Beast Charge,Beast Hold,,1,2,0,no
+14,Zillion Zeutron,Dual,17,18,21,Stamina,Solar Boost,Soltice Boost,,1,2,0,yes
+15,Giga Gaianon,Dual,12,12,12,Balance,Swing Launch,Swing Counter,,1,2,0,no
+16,Lost Luinor,Dual,25,21,19,Attack,Lost Spiral,,Nightmare Boost,1,0,2,yes
+17,Nepstrius Zephyr,Dual,15,15,15,Balance,,,,0,0,0,no
+18,Jumbo Jormuntor,Dual,12,14,17,Stamina,Zombie Launch,,,1,0,0,no
+19,Atlas Anubion,Dual,7,19,13,Defense,Perfect Circle,,,1,0,0,no
+20,Genesis Valtryek,God,49,30,31,Attack,Flash Launch,Genesis Reboot,Spring Winged Launch,1,2,3,yes
+21,Kinetic Satomb,God,35,37,29,Defense,Roller Defense,Roller Drift,Cyclone Loop,1,2,3,no
+22,Drain Fafnir,God,48,47,49,Stamina,Drain Spin,Nothing Break,,1,0,2,no
+23,Nightmare Luinor,God,48,45,42,Attack,Dragon Crash,,Nightmare Boost,1,0,2,yes
+24,Alter Cognite,God,35,35,35,Balance,Warp Launch,Tightrope Dive,Spinning Moon Dive,1,2,3,no
+25,Berserk Roktavor,God,30,35,37,Stamina,Stamina Launch,Roktavor Zone,Ultra Roktavor Zone,1,2,3,no
+26,Krusher Doomscizor,God,35,29,26,Attack,Hunt Launch,Double Strike,,1,2,3,no
+27,Tempest Wyvron,God,33,37,35,Defense,Shield Crash,Hypershield Crash,Super Tempest Attack,1,2,3,no
+28,Legend Spryzen,God,45,45,45,Balance,Upper Launch,Axe Launch,Ultra Counter Break,1,2,3,no
+29,Spryzen Requiem,God,49,49,49,Balance,Requiem Launch,Requiem Spin,Requiem Whip,1,2,3,yes
+30,Surge Xcalius,God,45,40,35,Attack,Dual Sabers,Triple Sabers,,1,2,0,no
+31,Maximus Garuda,God,26,32,34,Stamina,,,,0,0,0,no
+32,Blast Jinnius,God,36,44,38,Defense,Cyclone Wall,Cyclone Counter,Guard Twist,1,2,3,no
+33,Arc Balkesh,God,41,43,39,Defense,Final Gaurd,Final Crash,,1,2,0,no
+34,Shelter Regulus,God,41,41,41,Balance,Shelter Defense,Fang Attack,,1,2,0,no
+35,Deep Caynox,God,31,38,42,Stamina,Levitation Launch,,,1,0,0,no
+36,Wonder Valtryek,Cho-z,70,68,65,Attack,Wonder Flash Launch,Wonder Winged Launch,Wonder Whip,1,2,3,no
+37,Turbo Valtryek,Cho-z,72,70,70,Attack,Turbo Flash Launch,Turbo Winged Launch,Turbo Valtryek Whip,1,2,3,yes
+38,Z Achilles,Cho-z,69,69,69,Balance,Z Launch,Z Whip,Z Dive,1,2,3,yes
+39,Turbo Achilles,Cho-z,73,73,73,Balance,Turbo Shield,Turbo Whip,Turbo Dive,1,2,3,yes
+40,Crash Roktavor,Cho-z,59,62,64,Stamina,Roktavor Typhoon,Hurricane Counter,Roktavor Storm,1,2,3,no
+41,Heat Salamander,Cho-z,64,64,64,Balance,Swirling Inferno,Rain of Swordfire,Crimson Lotus Blaze,1,2,3,no
+42,Emperor Forneus,Cho-z,61,65,63,Defense,Emperor Guard,Emperor Drift,Ultra Emperor Drift,1,2,3,no
+43,Archer Hercules,Cho-z,58,59,66,Stamina,Endless Spin,Archer Strike,,1,2,0,no
+44,Brutal Luinor,Cho-z,67,65,62,Attack,Dragon Scream,Brutal Squall,,1,2,0,no
+45,Turbo Spryzen,Cho-z,74,74,74,Balance,Turbo Upper Launch,Turbo Counter Break,Turbo Spryzen Whip,1,2,3,yes
+46,Spiral Treptune,Cho-z,55,61,70,Stamina,Spiral Counter,,,1,0,0,no
+47,Revive Phoenix,Cho-z,71,73,70,Defense,Phoenix Break,Revive Impact,Revive Crush,1,2,3,no
+48,Dread Phoenix,Cho-z,75,75,75,Defense,Dread Cannon Crush,Dread Break,Final Dread Impact,1,2,3,yes
+49,Boom Khalzar,God,30,21,23,Attack,Skyscraper Boost,Thunder Attack,Bolt Attack,1,2,3,no
+50,Vice Leopard,Cho-z,64,55,52,Attack,Howling Bite,,,1,0,0,no
+51,Breaker Xcalius,Cho-z,67,62,60,Attack,Triple Saber,Fourth Impact,Saber Wall,1,2,3,no
+52,Hazard Kerbeus,Cho-z,65,68,66,Defense,Chain Protection,Chain Counter,,1,2,0,no
+53,Geist Fafnir,Cho-z,71,70,73,Stamina,Geist Spin,Geist Claw,Absorb Break,1,2,3,yes
+54,Dread Hades,Cho-z,72,72,72,Balance,Dread Impulse,,Dread Gravity,1,0,3,yes
+55,Orb Engaard,Cho-z,51,58,65,Defense,Orb Swing,Egis Guard,,1,2,0,no
+56,Fusion Aether,Cho-z,68,68,68,Balance,,,,0,0,0,no
+57,Air Knight,Cho-z,67,69,70,Stamina,Air Launch,Knight Flyer,Knight Mega Blow,1,2,3,no
